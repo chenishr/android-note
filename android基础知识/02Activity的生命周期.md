@@ -12,7 +12,7 @@
     onStrat --> onResume
     
     onResume --> running 
-    
+
     running --> onPasue
     
     onPasue --> onStop
